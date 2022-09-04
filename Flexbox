@@ -1,0 +1,4 @@
+Display: flex 
+Flex-direction: row | row-reverse | column | column-reverse
+align-self: flex-start | flex-end | center | baseline | stretch
+justify-content: start |  center | space-between | space-around | space-evenly
